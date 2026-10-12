@@ -1,0 +1,3 @@
+# Desktop launcher installs this into .desktop-runtime automatically.
+PySide6==6.10.2
+# The transaction backend and test suite use only the Python standard library.

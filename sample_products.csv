@@ -1,0 +1,2 @@
+﻿barcode,name,category,unit,price,cost,stock,minimum,part_number,oem_number,brand,condition,rack,warranty_days,fitments_json,origin_country,description
+SHOP-DEMO-001,Example brake pad set,Braking,piece,6500,4800,12,4,EXAMPLE-BP-01,EXAMPLE-OEM,Example Company,aftermarket,A-01,180,"[{""make"": ""Demo Motors"", ""model"": ""Sedan"", ""year_from"": 2015, ""year_to"": 2025, ""engine"": ""1.6 petrol""}]",Example country,Fictional example only. Replace details with verified supplier information.

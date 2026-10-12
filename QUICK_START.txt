@@ -1,0 +1,32 @@
+AUTOPARTS PRO 4 — SPARE PARTS + WORKSHOP + OIL CHANGE
+
+PURANA SOFTWARE UPDATE KARNA HAI?
+1. Purane app mein Settings > Download backup se backup save karein.
+2. Naya ZIP alag permanent folder mein extract karein. Purana folder rakhein.
+3. Naya app band rakhein; naya account abhi na banayein.
+4. IMPORT_OLD_BACKUP.vbs double-click karein aur purana backup select karein.
+5. Import ke baad AutoParts Pro.vbs kholein; purane username/password use karein.
+Import existing shop ko overwrite nahi karta. Purana backup bhi safe rehta hai.
+
+BILKUL NAYI SHOP?
+1. Pura folder extract karein; AutoParts Pro.vbs double-click karein.
+2. Install & open dabayein; pehli installation mein internet rakhein.
+3. Shop, username, password banayein; PRIVATE RECOVERY CARD safe rakhein.
+4. Agli baar desktop icon se kholein. Chrome ya CMD ki zaroorat nahi.
+64-bit Python 3.11–3.14 chahiye; signed standalone EXE shamil nahi hai.
+
+ASAN WORKSHOP TAREEQA:
+Customers > Add customer > Profile > Add car > New visit.
+Kaam, date/time aur meter reading likhein. Oil badla ho to Oil change Yes,
+oil detail aur next date/time ya next kilometre dein. Save visit dabayein.
+Parts beche hon to Parts ka bill banao se barcode scan karke bill save karein.
+
+Parts: buying cost, selling price, available pieces aur net sold dekhein.
+Search: upar naam, barcode, part number ya company likhein; result kholein.
+Workshop & oil: visits aur oil reminders. Reminder screen par dikhta hai;
+SMS khud nahi jata. Next interval aap workshop/vehicle manual ke mutabiq dein.
+More tools: vehicle finder, warranty, assistant, settings aur backups.
+
+WORKSHOP_USE_GUIDE.md mein har naya kaam step-by-step samjhaya gaya hai.
+Billing offline hai; optional Cloud AI ko apni key/model/internet chahiye.
+Folder move karein to desktop shortcut dobara banayein.
